@@ -20,4 +20,4 @@
 
     - DistilBERT 실습과 같이 매 epoch 마다의 train loss를 출력하고 최종 모델의 test accuracy를 report 첨부
 
-![[정확도_비교.png]]
+![정확도_비교](https://github.com/sosososoyoen/hh_plus_ai_3/blob/main/work/week3/%E1%84%80%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB/%EC%A0%95%ED%99%95%EB%8F%84_%EB%B9%84%EA%B5%90.png)
