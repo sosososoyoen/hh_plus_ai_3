@@ -36,16 +36,17 @@ self.classifier = nn.Linear(768, 3)
 
 ## Q3) 실제로 pre-trained 모델을 fine-tuning했을 때 loss curve은 어떻게 그려지나요? 그리고 pre-train 하지 않은 Transformer를 학습했을 때와 어떤 차이가 있나요? 
 
-*  DistllBert의 정확도 비교
+* DistllBert의 정확도 비교
 * ![distillBert_acc](./distilBert_acc.png)
 
-* Bert-base의 정확도 비교
-![bert_acc](./bert_acc.png)
-* distilBert와 크게 차이가 나지 않는다. 오히려 distilBert 쪽이 더 학습이 잘 된 것 같다.
+Bert-base의 정확도 비교와 loss 커브
 
-* Bert-base의 loss 커브
-![bert_loss](./bert_loss_curve.png)
+* ![bert_acc](./bert_acc.png)
+* ![bert_loss](./bert_loss_curve.png)
 
-* 사전학습하지 않은 트랜스포머의 정확도와 loss 커브
+distilBert와 크게 차이가 나지 않는다. 오히려 distilBert 쪽이 더 학습이 잘 된 것 같다.
+
+사전학습하지 않은 트랜스포머의 정확도와 loss 커브
+
 ![loss](./transformer_acc.png)
 ![loss](./transformer_loss.png)
