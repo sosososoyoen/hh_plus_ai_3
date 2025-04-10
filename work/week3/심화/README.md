@@ -42,6 +42,10 @@ self.classifier = nn.Linear(768, 3)
 * Bert-base의 정확도 비교
 ![bert_acc](./bert_acc.png)
 * distilBert와 크게 차이가 나지 않는다. 오히려 distilBert 쪽이 더 학습이 잘 된 것 같다.
-* 
+
 * Bert-base의 loss 커브
 ![bert_loss](./bert_loss_curve.png)
+
+* 사전학습하지 않은 트랜스포머의 정확도와 loss 커브
+![loss](./transformer_acc.png)
+![loss](./transformer_loss.png)
