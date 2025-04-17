@@ -1,5 +1,0 @@
-model,Aggro,base,emotional,few_shot,template,zero_shot_cot
-gpt-4o,93,86,89,86,89,94
-gpt-4.1-mini,83,85,80,73,81,87
-gpt-4o-mini,76,64,69,64,71,65
-gpt-4.1-nano,43,42,38,25,46,35
