@@ -14,7 +14,7 @@ https://github.com/NomaDamas/KICE_slayer_AI_Korean
 
  가격 : GPT-4o > GPT-4.1-mini > GPT-4o-mini > GPT-4.1-nano
  
- 지능 : GPT-4o = GPT-4.1-mini > GPT-4o-mini = GPT-4.1-nano
+ 지능 : GPT-4o >= GPT-4.1-mini > GPT-4o-mini >= GPT-4.1-nano
 
 
 
