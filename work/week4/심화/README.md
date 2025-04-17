@@ -131,6 +131,7 @@ https://github.com/NomaDamas/KICE_slayer_AI_Korean
 ```
 
 ## 모델 및 프롬프트 평가
+![image](https://github.com/user-attachments/assets/df12f4dd-d2b5-4fe8-95a1-86c68c02c9dd)
 
 
 ![Pasted image 20250418004250](https://github.com/user-attachments/assets/d52a6d08-8c30-429b-b796-7ffc9d33e9ed)
