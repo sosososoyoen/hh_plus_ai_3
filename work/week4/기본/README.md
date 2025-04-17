@@ -3,7 +3,8 @@
 ## 토크나이저를 활용하여 전제와 가설 문장들을 연결해서 학습시켰을 경우
 
 ```python
-tokenizer = AutoTokenizer.from_pretrained("bert-base-cased") # 전처리 함수 정의 def def preprocess_function(examples): 
+tokenizer = AutoTokenizer.from_pretrained("bert-base-cased") # 전처리 함수 정의
+def def preprocess_function(examples): 
 	return tokenizer( examples["premise"], examples["hypothesis"], 
 	truncation=True, padding="longest", )
 ```
