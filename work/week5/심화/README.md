@@ -21,6 +21,8 @@
 
 ## 📊 점수 상세
 
+![다운로드 (4)](https://github.com/user-attachments/assets/89148e51-4997-48d6-bfdc-2b5f9304406d)
+
 
 ### 🔷 ROUGE
 
