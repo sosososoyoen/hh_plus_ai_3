@@ -3,6 +3,9 @@
 
 본 문서는 LLM이 생성한 논문 요약 결과에 대해 ROUGE와 BERTScore를 기준으로 평가한 결과를 정리한 문서입니다. (with ChatGPT 4o)
 
+사용 모델 : gpt-4o-mini
+정답용 모델 : gpt-4o
+
 ---
 
 ## 🧠 종합 평가 요약
