@@ -9,7 +9,7 @@ https://github.com/sosososoyoen/streamlit-chatbot/blob/main/app_img.py
 
 ## Overview
 - [x]  여러 이미지를 입력으로 받기
-- [x]  Langchain + Open AI
+- [x]  Langchain + Open AI(gpt-4o-mini)
 - [x]  TavilySearchResults - 답변에서 키워드 추출해서 패션 아이템 검색
 - [ ]  AWS에 배포하기 (예정....)
 
