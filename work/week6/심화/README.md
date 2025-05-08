@@ -13,7 +13,10 @@ https://github.com/sosososoyoen/streamlit-chatbot/blob/main/app_img.py
 - [x]  TavilySearchResults - 답변에서 키워드 추출해서 패션 아이템 검색
 - [ ]  AWS에 배포하기 (예정....)
 
+2배속 영상
+
 [제목 없는 동영상 - Clipchamp로 제작 (1).webm](https://github.com/user-attachments/assets/65c99b8b-18a8-4731-a38a-2f01f7b1bc02)
+
 
 
 ## Demo App
