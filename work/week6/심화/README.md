@@ -20,4 +20,4 @@ https://github.com/sosososoyoen/streamlit-chatbot/blob/main/app_img.py
 
 
 ## Demo App
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sosososoyoen-streamlit-chatbot-app-img-zikc9u.streamlit.app/)
+https://app-chatbot-gkqvxwqzjxqytmb8e8e9dp.streamlit.app/
