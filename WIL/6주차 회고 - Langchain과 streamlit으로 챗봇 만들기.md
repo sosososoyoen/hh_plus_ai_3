@@ -18,9 +18,9 @@
 
 ## 🍀기본 과제 회고: 이미지를 가지고 질의응답을 하는 챗봇 구현
 
-[데모 앱 보러가기](https://sosososoyoen-streamlit-chatbot-app-img-basic-7hq6m0.streamlit.app/)
+[데모 앱 보러가기](https://app-chatbot-gkqvxwqzjxqytmb8e8e9dp.streamlit.app/app_img_basic)
 
-[코드 보기](https://github.com/sosososoyoen/streamlit-chatbot/blob/main/app_img_basic.py)
+[코드 보기](https://github.com/sosososoyoen/streamlit-chatbot/blob/practice/src/practice/pages/app_img_basic.py)
 지금 openAI API 2달러 밖에 안남아서 제대로 작동을 안할 수 있다.
 추후에 자신의 API 키를 넣는 인풋을 넣어두겠다.
 
@@ -130,10 +130,10 @@ import pysqlite3 as sqlite3
 
 ## 🌼심화 과제 회고: 이미지 기반 패션 추천 서비스
 
-[데모 앱 보러가기](https://sosososoyoen-streamlit-chatbot-app-img-zikc9u.streamlit.app/)
+[데모 앱 보러가기](https://app-chatbot-gkqvxwqzjxqytmb8e8e9dp.streamlit.app/app_img)
 따로 사이드바에서 본인의 openAI APi key를 입력해야 사용이 가능하다.
 
-[코드 보기](https://github.com/sosososoyoen/streamlit-chatbot/blob/main/app_img.py)
+[코드 보기](https://github.com/sosososoyoen/streamlit-chatbot/blob/practice/src/practice/pages/app_img.py)
 
 [제목 없는 동영상 - Clipchamp로 제작 (1).webm](https://github.com/user-attachments/assets/d2d76cd1-092e-495c-b3d8-d878b9961260)
 
