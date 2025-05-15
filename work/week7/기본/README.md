@@ -72,13 +72,13 @@ data_collator=default_data_collator
 
 **eval/loss**
 
-https://wandb.ai/soyeon-bubbles/Hanghae99/reports/eval-loss-25-05-15-17-41-08---VmlldzoxMjc4NjM3OQ
+https://api.wandb.ai/links/soyeon-bubbles/h7b20bqk
 
 ![W B Chart 2025  5  15  오후 1_06_46](https://github.com/user-attachments/assets/440a3c04-153e-44a7-9510-593a0b3bc5cb)
 
 
 **train/loss**
 
-https://wandb.ai/soyeon-bubbles/Hanghae99/reports/train-loss-25-05-15-17-41-38---VmlldzoxMjc4NjM5MQ
+https://api.wandb.ai/links/soyeon-bubbles/w3y6npl4
 
 ![W B Chart 2025  5  15  오후 1_06_56](https://github.com/user-attachments/assets/13a55358-da21-4355-afff-2f32c9190a7e)
