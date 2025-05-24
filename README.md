@@ -11,6 +11,11 @@
 
 이 곳은 항해 플러스 코스 3기를 수강하면서 배운 것들과 과제를 올리는 공간입니다!
 
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
+</a>
+
+
 ### 🌼커리큘럼
 
 **1~2주차. 딥러닝 이론 & 자연어 처리**
