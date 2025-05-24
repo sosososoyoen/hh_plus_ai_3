@@ -7,13 +7,15 @@
 
 
 
-# 항해 플러스 AI 코스 3기 학습 공간
+# 항해 플러스 AI 코스 3기 학습 공간 (25.03.22 ~ 25.05.24)
 
 이 곳은 항해 플러스 코스 3기를 수강하면서 배운 것들과 과제를 올리는 공간입니다!
 
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
 </a>
+<br />
+<img src="https://github.com/user-attachments/assets/0d7c03a9-3f85-4362-a878-94012059ddeb" width="320" />
 
 
 ### 🌼커리큘럼
